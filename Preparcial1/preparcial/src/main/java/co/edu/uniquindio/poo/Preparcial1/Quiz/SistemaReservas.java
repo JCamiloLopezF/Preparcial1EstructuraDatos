@@ -1,9 +1,9 @@
 package co.edu.uniquindio.poo.Preparcial1.Quiz;
 
 import java.time.LocalDateTime;
+import java.util.Iterator;
 import java.util.SortedMap;
 import java.util.TreeMap;
-import java.util.Iterator;
 
 public class SistemaReservas {
     public static void main(String[] args) {
@@ -43,7 +43,7 @@ public class SistemaReservas {
             Sala sala = iterador.next();
             if(sala.getFecha().equals(fecha)){
                 iterador.remove();
-        }  
+        }
         }
     }
 }

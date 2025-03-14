@@ -22,5 +22,5 @@ public class Sala {
     }
     public void setFecha(LocalDateTime fecha) {
         this.fecha = fecha;
-    }   
+    }
 }

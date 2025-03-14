@@ -24,5 +24,4 @@ public class Main{
         System.out.println(listaDoubles);
         System.out.println(listaDoublesInvertida);
     }
-
 }

@@ -32,7 +32,6 @@ public class Restaurante {
     }
 
     eliminarPedido(pedidosTiempo, pedido6);
-    
     }
 
     public static void registrarPedido(ArrayList<Pedido> pedidos, Pedido pedido){
